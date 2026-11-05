@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dev_router",
+    "name": "راوتر / نقطة اتصال الأندرويد (Gateway)",
+    "ip": "192.168.43.1",
+    "mac": "22:7B:8E:97:AA:2F",
+    "status": "trusted",
+    "device_type": "router",
+    "icon": "wifi.router",
+    "first_seen": 1700000000.0,
+    "last_seen": 1700000000.0
+  },
+  {
+    "id": "dev_guardian",
+    "name": "جهاز الحارس الذكي (Guardian-01)",
+    "ip": "192.168.43.5",
+    "mac": "44:1D:64:F8:3A:78",
+    "status": "trusted",
+    "device_type": "iot",
+    "icon": "shield.checkered",
+    "first_seen": 1700000000.0,
+    "last_seen": 1700000000.0
+  },
+  {
+    "id": "dev_macbook",
+    "name": "لابتوب الماك (MacBook)",
+    "ip": "192.168.43.142",
+    "mac": "",
+    "status": "trusted",
+    "device_type": "laptop",
+    "icon": "laptopcomputer",
+    "first_seen": 1700000000.0,
+    "last_seen": 1700000000.0
+  }
+]
+
