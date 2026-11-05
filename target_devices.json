@@ -1,0 +1,11 @@
+[
+  {
+    "id": "safe_default",
+    "name": "خزنة السيرفو (الافتراضية)",
+    "ssid": "ESP32",
+    "password": "12345678",
+    "trigger_url": "http://192.168.4.1/on",
+    "icon": "lock.fill",
+    "created_at": 1700000000.0
+  }
+]
